@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsonnect",
+        "uuid": 7961208,
+        "checksum": "mbuxa"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
